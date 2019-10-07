@@ -16,6 +16,11 @@
   -o-background-size: cover;
 }
 
+.image-kb {
+  background: url("../images/city-kabul.jpeg") no-repeat center;
+  background-size: auto;
+}
+
 /* -----------------------------------------------------Heading --*/
 
 .title {
