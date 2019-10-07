@@ -65,6 +65,22 @@ hr {
   margin-top: 20px;
 }
 
+.section-heading {
+  font-family: "Concert One", sans-serif;
+  text-align: center;
+}
+
+/* -----------------------------------------------------Main content --*/
+
+.section-paragraph {
+  font-family: "Satisfy", sans-serif;
+  margin: 22px 14px 22px 14px;
+  text-align: justify;
+  font-weight: 400;
+  font-size: 22px;
+  color: #4a4a4f;
+}
+
 /* -----------------------------------------------------Footer --*/
 
 footer {
