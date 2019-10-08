@@ -18,7 +18,18 @@
 
 .image-kb {
   background: url("../images/city-kabul.jpeg") no-repeat center;
-  background-size: auto;
+  background-size: 75% auto;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.image-kb-culture {
+  background: url("../images/kabul-culture.jpg") no-repeat center;
+  background-size: 75% auto;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
 }
 
 /* -----------------------------------------------------Heading --*/
@@ -84,6 +95,15 @@ hr {
   font-weight: 400;
   font-size: 22px;
   color: #4a4a4f;
+}
+
+.list-group {
+  margin-top: 18px ;
+  padding: 0;
+  margin: 0;
+  font-family: "Concert One", sans-serif;
+  font-weight: 600;
+  color: #212529;
 }
 
 /* -----------------------------------------------------Footer --*/
