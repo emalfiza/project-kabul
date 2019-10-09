@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Concert+One|Satisfy&display=swap:100,200,300,400,500,600,700,800|satisfy:100,200,300,400,500,600,700,800');
 
-/* -----------------------------------------------------Navbar --*/
-
-.navbar-brand {
-  color: #fafafa;
-}
 
 /* -- The bellow body css imported from the startbootstrap.com --*/
 
@@ -19,6 +14,9 @@
 .image-kb {
   background: url("../images/city-kabul.jpeg") no-repeat center;
   background-size: 75% auto;
+  -moz-background-size: 75% auto;
+  -webkit-background-size: 75% auto;
+  -o-background-size: 75% auto;
   max-width: 100%;
   height: auto;
 }
@@ -26,8 +24,17 @@
 .image-kb-culture {
   background: url("../images/kabul-culture.jpg") no-repeat center;
   background-size: 75% auto;
+  -moz-background-size: 75% auto;
+  -webkit-background-size: 75% auto;
+  -o-background-size: 75% auto;
   max-width: 100%;
   height: auto;
+}
+
+/* -----------------------------------------------------Navbar --*/
+
+.navbar-brand {
+  color: #fafafa;
 }
 
 /* -----------------------------------------------------Heading --*/
@@ -103,12 +110,24 @@ hr {
   color: #212529;
 }
 
+/* -----------------------------------------------------Map --*/
+
+.map {
+  margin: 0;
+  padding: 0;
+}
+
 /* -----------------------------------------------------Footer --*/
 
 footer {
   background-color: #343a40!important;
   color: #fafafa;
   min-height: 100px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
 }
 
 .uppercase {
