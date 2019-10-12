@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Concert+One|Satisfy&display=swap:100,200,300,400,500,600,700,800|satisfy:100,200,300,400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Grenze&display=swap:100,200,300,400,500,600,700,800|Grenze:100,200,300,400,500,600,700,800');
 
 
 /* -- The bellow body css imported from the startbootstrap.com --*/
@@ -67,7 +67,7 @@ hr {
 
 .primary,
 .lead {
-  font-family: "satisfy", sans-serif;
+  font-family: "Grenze", sans-serif;
   font-size: 22px;
   color: #fafafa;
   text-align: center;
@@ -86,7 +86,7 @@ hr {
 /* -----------------------------------------------------Main content --*/
 
 .section-paragraph {
-  font-family: "Satisfy", sans-serif;
+  font-family: "Grenze", sans-serif;
   margin: 22px 22px 22px 14px;
   text-align: justify;
   font-weight: 400;
