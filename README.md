@@ -1,4 +1,4 @@
-# <span style="font-family: Papyrus;">City of Kabul</span> #
+# City of Kabul
 
 -----
 
@@ -6,13 +6,13 @@ Stream One Project: User-Centric Frondend Develeopment - Code Institue
 
 Kabul, Afghanistan located in the heart of Asia. Termed as the roof of the world. On the google search, type Kabul and the only things will pop up is desttructions and graphic images, But that is not the real image of it. City of Kabul website is present to manifest and standout the real beauty and rich culture of Asia and to attract global tourists. The website is consist of four pages. The landing page, about, map and contact page.
 
-# <span style="font-family: Papyrus;">Demo</span>
+# Demo
 
 ----
 
 A live demo of the entire page can be found [here]()
 
-# <span style="font-family: Papyrus;">UX</span>
+# UX
 
 -----
 
@@ -20,7 +20,7 @@ My goal in the design was to create simple, clear website and make it as easy as
 
 For users, I wanted to provide them with a very breif overview of Kabul and its culture via a simple and friendly design. This way, they would be able to get a glimpse of what and how Kabul is, the history, culture and the transitions, with the option to contact if they chose. In the footer section, I wanted them to be able to quickly access the social media for Kabul. 
 
-# <span style="font-family: Papyrus;">Technologies</span>
+# Technologies
 
 ------
 
@@ -33,7 +33,7 @@ For users, I wanted to provide them with a very breif overview of Kabul and its 
 - [Font Awesome](https://fontawesome.com/)
 - [tinyjpg](https://tinyjpg.com/)
 
-# <span style="font-family: Papyrus;">Features</span>
+# Features
 
 ---
 
@@ -43,11 +43,11 @@ For users, I wanted to provide them with a very breif overview of Kabul and its 
 
 * A Bootstarp 4 [jQuery](https://jquery.com/), [Popper.js](https://popper.js.org/), and JavaScript plugins. Placed near the end of my pages, right before the closing `` tag, to enable the dropdown menu on the small and meduim view.
 
-# <span style="font-family: Papyrus;">Features left to implement </span>
+# Features left to implement
 
 In the future, I would like to add further projects that I've worked on to create a more comprehensive 'about' section. I would like to add a dropdown list on the about section and add more content.
 
-# <span style="font-family: Papyrus;">Testing</span>
+# Testing
 
 ----
 
@@ -59,7 +59,7 @@ html codes were tested in w3c html validator and css codes were tested in w3c cs
 
 
 
-## <span style="font-family:Papyrus;">Deployment</span>
+## Deployment
 
 ----
 
@@ -69,29 +69,29 @@ To run locally, you can clone this repository directly into the editor of your c
 
 
 
-## <span style="font-family:Papyrus;">Credits</span>
+## Credits
 
 -----
 
-### <span style="font-family:Papyrus;">Author</span>
+### Author
 
 Emal Fiza : Student of Code Institue 
 
-### <span style="font-family:Papyrus;">Content</span>
+### Content
 
 The content in the "Landing Page" was written by me and the "About Page" was copied from the wikipedia.
 
-### <span style="font-family:Papyrus;">Media</span>
+### Media
 
 The landing page background image is taken from the [wallpapercave](https://wallpapercave.com/kabul-wallpapers alt="_blank"). The About section the cultural traditions in Kabul, the tallest mosque in the city image is taken from the [twitter](https://twitter.com/sejavand/status/1119118340478226432/photo/1). The cultural foods of Kabul image is taken from the [instagram](https://www.instagram.com/p/BrTbc17DuPJ/). And the contact page image is taking from [marvelapp](https://marvelapp.com/contact-us). All the images compressed in the [tinyjpg](https://tinyjpg.com/) for performance improvement.
 
-### <span style="font-family:Papyrus;">Acknowledgements</span>
+### Acknowledgements
 
 The dropdown small and meduim view JavaScript function was found through this tutorial [here](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 
 
-**<span style="font-family:Papyrus;">This is for educational use</span>**
+**This is for educational**
 
 
 

@@ -1,7 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Concert+One|Grenze&display=swap:100,200,300,400,500,600,700,800|Grenze:100,200,300,400,500,600,700,800');
 
 
-/* -- The bellow body css imported from the startbootstrap.com --*/
+/* --                                                              
+,------.                  ,--.    ,------.,--.                
+|  .---',--,--,--. ,--,--.|  |    |  .---'`--',-----. ,--,--. 
+|  `--, |        |' ,-.  ||  |    |  `--, ,--.`-.  / ' ,-.  | 
+|  `---.|  |  |  |\ '-'  ||  |    |  |`   |  | /  `-.\ '-'  | 
+`------'`--`--`--' `--`--'`--'    `--'    `--'`-----' `--`--' 
+                                                              
+
+The bellow body css imported from the startbootstrap.com 
+for the full background image of the landing page---------------*/
 
 #body {
   background: url("../images/kabul.jpg") no-repeat center center fixed;
@@ -11,27 +20,23 @@
   -o-background-size: cover;
 }
 
-.city-kb {}
-
-.image-kb-culture {
-  background: url("../images/kabul-culture.jpg") no-repeat center;
-  background-size: 75% auto;
-  -moz-background-size: 75% auto;
-  -webkit-background-size: 75% auto;
-  -o-background-size: 75% auto;
-  max-width: 100%;
-  height: auto;
+.img-fluid {
+  margin-bottom: 18px;
 }
 
-/* -----------------------------------------------------Navbar --*/
+/* --Navbar-----------------------------------------------------*/
 
 .navbar-brand {
   color: #fafafa;
 }
 
-/* -----------------------------------------------------Heading --*/
+/* --Heading-----------------------------------------------------*/
 
-.title {
+.context {
+  margin-top: 14%;
+}
+
+.context h1 {
   font-family: "Concert One", sans-serif;
   font-weight: bolder;
   text-align: center;
@@ -41,6 +46,42 @@
   color: #fafafa;
   margin-bottom: 10px;
 }
+
+.context p {
+  font-family: "Grenze", sans-serif;
+  font-size: 22px;
+  color: #fafafa;
+  text-align: center;
+}
+
+.quote h3 {
+  font-family: "Concert One", sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fafafa;
+  margin-top: 62px;
+  margin-bottom: 10px;
+}
+
+.quote p {
+  font-family: "Grenze", sans-serif;
+  font-size: 22px;
+  color: #fafafa;
+  text-align: center;
+  margin-top: 32px;
+}
+
+.section-heading {
+  font-family: "Concert One", sans-serif;
+  text-align: center;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* --Horizontal line under the heading-----------------------------------------------*/
 
 hr {
   width: 20%;
@@ -57,37 +98,11 @@ hr {
   background-color: #fafafa;
 }
 
-.card {
-  background-color: rgba(0, 0, 0, 0.3);
-}
-
-.context {
-  margin-top: 14%;
-}
-
-.primary,
-.lead {
-  font-family: "Grenze", sans-serif;
-  font-size: 22px;
-  color: #fafafa;
-  text-align: center;
-  margin-top: 32px;
-}
-
-.lead {
-  margin-top: 20px;
-}
-
-.section-heading {
-  font-family: "Concert One", sans-serif;
-  text-align: center;
-}
-
-/* -----------------------------------------------------Main content --*/
+/* --Main content-----------------------------------------------*/
 
 .section-paragraph {
   font-family: "Grenze", sans-serif;
-  margin: 22px 22px 22px 14px;
+  margin: 0 0 18px 0;
   text-align: justify;
   font-weight: 400;
   font-size: 22px;
@@ -95,7 +110,7 @@ hr {
 }
 
 .list-group {
-  margin-top: 18px;
+  margin-bottom: 18px;
   padding: 0;
   font-family: "Concert One", sans-serif;
   font-weight: 600;
@@ -124,7 +139,7 @@ hr {
   margin-bottom: 22px;
 }
 
-/* -----------------------------------------------------Map --*/
+/* --Map for the map page---------------------------------------*/
 
 .map {
   margin: 0;
@@ -132,7 +147,15 @@ hr {
   height: 100vh;
 }
 
-/* -----------------------------------------------------Footer --*/
+
+/* --Form for the contact page----------------------------------*/
+
+.form-control:focus {
+  border-color: #DC3545;
+  box-shadow: 0 0 0 0.2rem rgba(220,53,69,.25);
+}
+
+/* --Footer-----------------------------------------------------*/
 
 footer {
   background-color: #343a40!important;
@@ -189,3 +212,4 @@ because I wanted my footer font family to match my navbar--*/
 .social-links li a i:hover {
   background-color: #252525;
 }
+
