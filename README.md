@@ -2,9 +2,15 @@
 
 -----
 
-Stream One Project: User-Centric Frondend Develeopment - Code Institue 
+Stream One Project: User-Centric Frontend Development - Code Institute
 
-Kabul, Afghanistan located in the heart of Asia. Termed as the roof of the world. On the google search, type Kabul and the only things will pop up is desttructions and graphic images, But that is not the real image of it. City of Kabul website is present to manifest and standout the real beauty and rich culture of Asia and to attract global tourists. The website is consist of four pages. The landing page, about, map and contact page.
+Kabul, Afghanistan located in the heart of Asia. Termed as the roof of the world. If a search for Kabul, Afghanistan is made, graphic images of violence, destruction and war appear with the absence of the real images and beauty perceived by the residents . City of Kabul website is present to manifest and showcase the real beauty and rich culture of Asia and to boost the tourism. The website consists of four pages;
+
+1. landing page
+2. about
+3. map
+4. contact page.
+
 
 # Demo
 
@@ -16,9 +22,8 @@ A live demo of the entire page can be found [here]()
 
 -----
 
-My goal in the design was to create simple, clear website and make it as easy as possible to access information on the site while striving for a minimalist design. 
-
-For users, I wanted to provide them with a very breif overview of Kabul and its culture via a simple and friendly design. This way, they would be able to get a glimpse of what and how Kabul is, the history, culture and the transitions, with the option to contact if they chose. In the footer section, I wanted them to be able to quickly access the social media for Kabul. 
+My goal in the design was to create a simple and clear website enabling easy to  access information on the site whilst aiming for a minimalist design.
+For users, I wanted to provide them with a very brief overview of Kabul and its culture via a simple, friendly and interactive design. This would allow them to get a glimpse of what and how Kabul is - the history, culture and the transitions through history, with the option to contact if they chose. In the footer section, I wanted the social media to be easily accessible as it is the most efficient way of information for the users.
 
 # Technologies
 
@@ -51,11 +56,16 @@ In the future, I would like to add further projects that I've worked on to creat
 
 ----
 
-The Overall idea  of the website was intended by myself. The landing page background image is taken from the [wallpapercave](https://wallpapercave.com/kabul-wallpapers alt="_blank") and it showcase the thusands of olds history of Kabul. And on the about section the user could obtain the cultural traditions in Kabul, the tallest mosque in the city image is taken from the [twitter](https://twitter.com/sejavand/status/1119118340478226432/photo/1) and cultural foods of Kabul image is taken from the [instagram](https://www.instagram.com/p/BrTbc17DuPJ/). Users are able to view the social media about Kabul via clicking on the icons in the footer. If you try to submit the contact form with an invalid email address, there will be an error noting the invalid email address. Furthermore, the 'required' attribute is added to the 'name field, so if those fields are not filled in, the form will not submit. If all field are valid, the page will reload. All links will open in a new tab using 'target="_blank".
+The Overall idea of the website was created by myself. The landing page background image is taken from the [wallpapercave](https://wallpapercave.com/kabul-wallpapers) and it showcases the forts of the Hindu Kush mountains bordering Afghanistan.
 
-This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (iPhone  8plus: Chrome and Safari, iPad, Samsung Galaxy) to ensure compatibility and responsiveness.
+On the about section, the user could obtain the cultural traditions in Kabul, the tallest mosque in the city image is taken from the [twitter](https://twitter.com/sejavand/status/1119118340478226432/photo/1) and the decline of the cultural gender separations in Kabul image is taken from the [The New York Times](https://www.nytimes.com/2019/05/25/world/asia/afghanistan-kabul-women-cafes.html).
 
-html codes were tested in w3c html validator and css codes were tested in w3c css validator.
+Users are able to view the social media about Kabul via clicking on the icons in the footer. If you try to submit the contact form with an invalid email address, there will be an error noting the invalid email address. Furthermore, the ‘required’ attribute is added to the ‘name field’, so if those fields are not filled in, the form will not submit. If all fields are valid, the page will reload. All links will open in a new tab using 'target="_blank".
+
+This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (iPhone 8plus: Chrome and Safari, iPad, Samsung Galaxy) to ensure compatibility and responsiveness.
+
+HTML codes were tested in w3c html validator and css codes were tested in w3c css validator.
+
 
 
 
@@ -83,10 +93,10 @@ The content in the "Landing Page" was written by me and the "About Page" was cop
 
 ### Media
 
-The landing page background image is taken from the [wallpapercave](https://wallpapercave.com/kabul-wallpapers alt="_blank"). The About section the cultural traditions in Kabul, the tallest mosque in the city image is taken from the [twitter](https://twitter.com/sejavand/status/1119118340478226432/photo/1). The cultural foods of Kabul image is taken from the [instagram](https://www.instagram.com/p/BrTbc17DuPJ/). And the contact page image is taking from [marvelapp](https://marvelapp.com/contact-us). All the images compressed in the [tinyjpg](https://tinyjpg.com/) for performance improvement.
+The landing page background image is taken from the [wallpapercave](https://wallpapercave.com/kabul-wallpapers). The About section the cultural traditions in Kabul, the tallest mosque in the city image is taken from the [twitter](https://twitter.com/sejavand/status/1119118340478226432/photo/1). The decline of the cultural gender separations in Kabul image is taken from [The New york Times](https://www.nytimes.com/2019/05/25/world/asia/afghanistan-kabul-women-cafes.html). And the contact page image is taking from [archiveboston](http://archive.boston.com/bigpicture/2013/05/afghanistan_civilians.html). All the images compressed in the [tinyjpg](https://tinyjpg.com/) for performance improvement.
 
 ### Acknowledgements
-
+The Bootstrap 4 starter layout with a full page fixed background image and content cards was taken from [getbootstrap](https://startbootstrap.com/snippets/full-image-background/)
 The dropdown small and meduim view JavaScript function was found through this tutorial [here](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 

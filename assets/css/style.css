@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Concert+One|Grenze&display=swap:100,200,300,400,500,600,700,800|Grenze:100,200,300,400,500,600,700,800');
 
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 12rem;
+  min-height: 100%;
+}
 
 /* --                                                              
 ,------.                  ,--.    ,------.,--.                
@@ -19,6 +29,7 @@ for the full background image of the landing page---------------*/
   -moz-background-size: cover;
   -o-background-size: cover;
 }
+
 
 .img-fluid {
   margin-bottom: 18px;
@@ -147,6 +158,11 @@ hr {
 }
 
 
+#map {
+  padding-bottom: 6rem;
+}
+
+
 /* --Form for the contact page----------------------------------*/
 
 .form-control:focus {
@@ -163,7 +179,7 @@ footer {
 }
 
 .footer {
-  position: initial;
+  position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
