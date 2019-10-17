@@ -16,7 +16,9 @@ Kabul, Afghanistan located in the heart of Asia. Termed as the roof of the world
 
 ----
 
-A live demo of the entire page can be found [here]()
+A live demo of the entire pages ![here](https://user-images.githubusercontent.com/54599698/67026966-b2964f80-f100-11e9-8df0-e7863e15a243.gif)
+
+[Link to deployed website](https://emalfiza.github.io/project-kabul/)
 
 # UX
 
@@ -75,7 +77,7 @@ HTML codes were tested in w3c html validator and css codes were tested in w3c cs
 
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
 
-To run locally, you can clone this repository directly into the editor of your choice by pasting `git clone https://github.com/hschafer2017/HSCHAFER-Portfolio.git` into your terminal. To cut ties with this GitHub repository, type`git remote rm origin` into the terminal.
+To run locally, you can clone this repository directly into the editor of your choice by pasting `git clone https://github.com/emalfiza/project-kabul.git` into your terminal. To cut ties with this GitHub repository, type`git remote rm origin` into the terminal.
 
 
 
