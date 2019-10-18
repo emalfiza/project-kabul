@@ -27,6 +27,12 @@ A live demo of the entire pages ![here](https://user-images.githubusercontent.co
 My goal in the design was to create a simple and clear website enabling easy to  access information on the site whilst aiming for a minimalist design.
 For users, I wanted to provide them with a very brief overview of Kabul and its culture via a simple, friendly and interactive design. This would allow them to get a glimpse of what and how Kabul is - the history, culture and the transitions through history, with the option to contact if they chose. In the footer section, I wanted the social media to be easily accessible as it is the most efficient way of information for the users.
 
+### User Stories
+
+* As the website developer I want to build a website which allows users to learn the true rich culture of Kabul.
+* As the website developer I want the content of the page to be presented in a user friendly and traditionally way to showcase the simplicity of Asian culture.
+* As the website developer I want to create a website which is subtle and visually appealing and pleasing with the very basics of software developing programming html and css and a move away from quirky and jerky animation on navigation menu and other contents.
+
 # Technologies
 
 ------
@@ -91,7 +97,7 @@ Emal Fiza : Student of Code Institue
 
 ### Content
 
-The content in the "Landing Page" was written by me and the "About Page" was copied from the wikipedia.
+The content in the "Landing Page" was written by me and the "About Page" was copied from the [wikipedia](https://en.wikipedia.org/wiki/Kabul).
 
 ### Media
 
