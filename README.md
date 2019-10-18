@@ -38,7 +38,7 @@ For users, I wanted to provide them with a very brief overview of Kabul and its 
 ------
 
 - [HTML](https://www.wikipedia.com/HTML)
-- [CSS]()
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [Bootstap 4](https://getbootstrap.com/) 
 - [Google Fonts](https://fonts.google.com/)
 - [jQuery](https://jquery.com/)
@@ -77,9 +77,17 @@ HTML codes were tested in w3c html validator and css codes were tested in w3c cs
 
 
 
-## Deployment
+# Deployment
 
 ----
+### Deployment onto GitHub
+1. The git repository was initiated by inputting the command 'git init' into the terminal.
+2. I then used 'git add' to add the files to the staging area before using the 'git commit -m "Description of work done' command to commit the files.
+2. I created a repository on GitHub and linked to it by using command 'git remote add origin https://github.com/emalfiza/project-kabul.git'.
+3. I could then push my files into GitHub by using 'git push'.
+4. I entered the GitHub username and password.
+5. To publish my site using GitHub Pages, I navigated to my GitHub Pages site's repository.
+   Under my repository name, I clicked Settings. I scrolled down to the GitHub Pages section and used the Select source drop-down menu to select 'master' as my GitHub Pages publishing source.
 
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`.
 
@@ -87,7 +95,7 @@ To run locally, you can clone this repository directly into the editor of your c
 
 
 
-## Credits
+### Credits
 
 -----
 
